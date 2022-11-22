@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello World!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name = "taken_course_code_test">
+        <item>CSCA08</item>
+        <item>CSCA20</item>
+        <item>CSCA48</item>
+        <item>CSCB20</item>
+        <item>CSCB07</item>
+        <item>CSCB09</item>
+    </string-array>
+
+    <string-array name = "taken_course_name_test">
+        <item>intro to cs</item>
+        <item>basic of cs</item>
+        <item>intro to cs 2</item>
+        <item>intro to web</item>
+        <item>intro to software</item>
+        <item>intro to ...</item>
+    </string-array>
+
+</resources>
